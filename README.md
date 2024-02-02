@@ -1,0 +1,1 @@
+# cmake-mingw-debug
